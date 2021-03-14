@@ -1,3 +1,4 @@
-export class treeItem {
-
+class treeItem {
 }
+
+export {treeItem}
